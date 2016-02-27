@@ -26,5 +26,7 @@ In this example we are going to make one html in which we will submit the user n
 4.16 Session Last Accessed Time Example
 ---------------------------------------
 This example illustrates to find current  access time of session  and last access time of session. Sessions are used to maintain state and user identity across multiple page requests. An implementation of HttpSession represents the server's view of the session. The server considers a session to be new until it has been joined by the client. Until the client joins the session, isNew() method returns true.
+![1](https://cloud.githubusercontent.com/assets/16939699/13371574/a310af60-dd4f-11e5-8bc3-85defcf299d0.png)
+![2](https://cloud.githubusercontent.com/assets/16939699/13371576/a7cf07ea-dd4f-11e5-928d-1d5053c97dea.png)
 
 
