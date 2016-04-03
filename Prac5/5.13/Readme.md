@@ -1,52 +1,16 @@
-For first time users:
----------------------
-Create a github account. (user id must be s+div+batch+enrollment_number eg. s2b1926456780)
-Submit your user id to me. (to selected student)
-I will add you in collabrator list.
-Fork test repository in your github account. (you will receive email for this)
-
-0. Install Git on your PC.
-1. Open terminal navigate to project folder.
-	follow the below commands.
-2. git init (this is only one time)
-3. git pull URL 
-4. enter your user name and password
-5. //make your changes
-6. git add "file relative path"
-7. git remote add master "Your Git url from github portal"
-8. git config --global user.email "your email address of github"
-9. git config --global user.name "your username of github"
-10. git commit -m "your comment"
-11. git push master 
-12. enter your user name and password
-13. check github portal for updated changes
-
-
-=======================
-
-For returning user
-------------------
-1. git pull master
-2. enter your username and password
-3. git add "file name"
-4. git commit -m "your comment"
-5. git push master
-6. enter your user name and password
-7. check github portal for updated changes
-
-
-How to submit screenshots?
---------------------------
-1. In your repository go to issues tab. 
-2. Create a new issue. 
-3. Upload screenshot as an issue. 
-4. Copy image URL. 
-5. In readme.md **(for each practical there is a seprate readme.md)** file upload your image using following tag
-	* `![Snapshot 1](link to image)`
-	
-![Snapshot 1](https://cloud.githubusercontent.com/assets/16831556/12673951/128c6fb6-c6a6-11e5-8185-ddec350711a7.png)
-Sample Screenshot
-
-
-
-:loudspeaker: Happy Programming to you!!! :loudspeaker:
+![1](https://cloud.githubusercontent.com/assets/16939699/14231755/f262f2e8-f9ac-11e5-87cc-5a25b74451dc.PNG)
+![2](https://cloud.githubusercontent.com/assets/16939699/14231757/f2663a70-f9ac-11e5-9e88-ca6fc115ddde.PNG)
+![3](https://cloud.githubusercontent.com/assets/16939699/14231756/f265dc1a-f9ac-11e5-8794-b360bb74aa6b.PNG)
+![4](https://cloud.githubusercontent.com/assets/16939699/14231758/f26672ce-f9ac-11e5-8c79-543c37d3ad62.PNG)
+![5](https://cloud.githubusercontent.com/assets/16939699/14231759/f267a298-f9ac-11e5-8c73-26bc0a307de5.PNG)
+![6](https://cloud.githubusercontent.com/assets/16939699/14231760/f267ec62-f9ac-11e5-9903-b6fb0a1333ad.PNG)
+![7](https://cloud.githubusercontent.com/assets/16939699/14231761/f2938a98-f9ac-11e5-9c3d-fefacc5e32cf.PNG)
+![8](https://cloud.githubusercontent.com/assets/16939699/14231762/f2984330-f9ac-11e5-8f50-75a0331fe928.PNG)
+![9](https://cloud.githubusercontent.com/assets/16939699/14231763/f298c21a-f9ac-11e5-9690-1164d43f7bca.PNG)
+![10](https://cloud.githubusercontent.com/assets/16939699/14231765/f29bbb5a-f9ac-11e5-9c48-e4c84d9d1a7e.PNG)
+![11](https://cloud.githubusercontent.com/assets/16939699/14231764/f29b82a2-f9ac-11e5-93a1-019cdc41cc7f.PNG)
+![12](https://cloud.githubusercontent.com/assets/16939699/14231766/f29d6d10-f9ac-11e5-9f36-37393de4b13b.PNG)
+![13](https://cloud.githubusercontent.com/assets/16939699/14231767/f2c6395c-f9ac-11e5-8887-b3919d168dcc.PNG)
+![14](https://cloud.githubusercontent.com/assets/16939699/14231768/f2cc00da-f9ac-11e5-9b02-7c3c3198aae6.PNG)
+![15](https://cloud.githubusercontent.com/assets/16939699/14231770/f2cea0d8-f9ac-11e5-9371-1b9707c2aba7.PNG)
+![16](https://cloud.githubusercontent.com/assets/16939699/14231769/f2ce01d2-f9ac-11e5-9786-0c50e61cca74.PNG)
